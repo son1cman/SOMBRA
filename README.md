@@ -1,2 +1,3 @@
 # SOMBRA
-Mesh to File
+by Kevin Martinez
+Procedural Animation Based Game
